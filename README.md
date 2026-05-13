@@ -17,8 +17,7 @@ Love to build, break, test and automate work so i can much more important things
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white) [![Secure DevSecOps Pipeline](https://github.com/Jesvin97/Backend_server/actions/workflows/secure-devsecops.yml/badge.svg)](https://github.com/Jesvin97/Backend_server/actions/workflows/secure-devsecops.yml)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html&logoColor=white) [![Secure DevSecOps Pipeline](https://github.com/Jesvin97/Backend_server/actions/workflows/secure-devsecops.yml/badge.svg)]
 ## 📊 GitHub Stats
 
 <div align="center">
